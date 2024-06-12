@@ -1,0 +1,24 @@
+*{} 
+
+/* This is the universal seletor for all elements written in CSS */
+
+
+div {}
+
+/* This is an example of a type selector. Whichever tag that is infront of the brackets will be selected for the entire code.  */
+
+.class-selector {}
+
+/* A class selector will only target the element with this specific class. I.E in the html it would be
+ <div class=""class-selector> </div> 
+ 
+Classes can also be grouped together.
+Classes can have subsections:
+Headong itallic
+Heading Bold 
+They would share the properties for the heading class but they can be individually tweaked with the subclass. 
+ */
+
+ #ID {}
+
+ /* ID selectors work similar work similar to Class selectors. But IDs can only be applied once, instead of elements which can be applied to multiple elements.   */
